@@ -26,9 +26,14 @@ Bypass processes that don't use a proxy (mainly for tun mode)
 
 ## bypass_hk.json
 
-Services unavailable on Hong Kong nodes, it is recommended to add a outbound selector to select non-Hong Kong nodes.
+Services unavailable on Hong Kong nodes, it is recommended to add a outbound selector to select non-Hong Kong nodes
 
 - OpenAI
 - Claude
 - Gemini
 
+## game.json
+
+Game acceleration, it is recommended to use tun mode and select nodes that support UDP forwarding
+
+- Grand Theft Auto V Enhanced && Rockstar Games Launcher

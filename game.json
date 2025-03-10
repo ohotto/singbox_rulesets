@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_path_regex": [
+        ".*steamapps\\\\common\\\\Grand Theft Auto V Enhanced.*",
+        ".*\\\\RockstarGamesLauncher\\\\.*"
+      ]
+    }
+  ]
+}

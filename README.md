@@ -2,6 +2,14 @@
 
 For personal use, easy to update
 
+## CDN URL
+
+```sh
+https://testingcf.jsdelivr.net/gh/ohotto/singbox_rulesets@main/<path>
+#for example
+https://testingcf.jsdelivr.net/gh/ohotto/singbox_rulesets@main/direct_address.json
+```
+
 ## direct_address.json
 
 Bypass websites with blocked foreign IPs but match proxy
@@ -23,3 +31,4 @@ Services unavailable on Hong Kong nodes, it is recommended to add a outbound sel
 - OpenAI
 - Claude
 - Gemini
+

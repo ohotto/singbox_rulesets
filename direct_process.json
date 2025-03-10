@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_path_regex": [
+        ".*qBittorrent\\\\qbittorrent\\.exe",
+        ".*Tencent\\\\WeChat\\\\WeChat\\.exe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "generativelanguage.googleapis.com",
+        "anthropic.com",
+        "claude.ai"
+      ],
+      "domain": [
+        "gemini.google.com",
+        "cdn.usefathom.com"
+      ]
+    }
+  ]
+}

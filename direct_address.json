@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "latexlive.com",
+        "steamserver.net"
+      ],
+      "domain": [
+        "steamcdn-a.akamaihd.net"
+      ]
+    }
+  ]
+}

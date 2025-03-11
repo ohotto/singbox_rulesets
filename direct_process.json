@@ -5,6 +5,9 @@
       "process_path_regex": [
         ".*qBittorrent\\\\qbittorrent\\.exe",
         ".*Tencent\\\\WeChat\\\\WeChat\\.exe"
+      ],
+      "package_name": [
+        "com.tencent.mm"
       ]
     }
   ]

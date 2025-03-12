@@ -5,7 +5,8 @@
       "process_path_regex": [
         ".*steamapps\\\\common\\\\Grand Theft Auto V Enhanced.*",
         ".*\\\\RockstarGamesLauncher\\\\.*",
-        ".*\\\\Rockstar Games\\\\Social Club\\\\.*"
+        ".*\\\\Rockstar Games\\\\Social Club\\\\.*",
+        ".*\\\\RustDesk\\\\.*"
       ]
     }
   ]

@@ -4,7 +4,9 @@
     {
       "process_path_regex": [
         ".*qBittorrent\\\\qbittorrent\\.exe",
-        ".*Tencent\\\\WeChat\\\\WeChat\\.exe"
+        ".*Tencent\\\\WeChat\\\\.*",
+        ".*ZenlessZoneZero Game\\\\.*",
+        ".*miHoYo Launcher\\\\.*"
       ]
     }
   ]

@@ -30,7 +30,8 @@
         "sentry.io",
         "stripe.com",
         "turn.livekit.cloud",
-        "openai.com"
+        "openai.com",
+        "dmm.co.jp"
       ],
       "domain": [
         "gemini.google.com",

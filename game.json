@@ -6,7 +6,10 @@
         ".*steamapps\\\\common\\\\Grand Theft Auto V Enhanced.*",
         ".*\\\\RockstarGamesLauncher\\\\.*",
         ".*\\\\Rockstar Games\\\\Social Club\\\\.*",
-        ".*\\\\RustDesk\\\\.*"
+        ".*\\\\RustDesk\\\\.*",
+        ".*\\\\NIKKE\\\\.*",
+        ".*Launcher\\\\intl_service\\\\tbs_browser\\.exe",
+        ".*Launcher\\\\nikke_launcher\\.exe"
       ]
     }
   ]

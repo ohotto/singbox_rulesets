@@ -10,9 +10,6 @@
         ".*\\\\NIKKE\\\\.*",
         ".*Launcher\\\\intl_service\\\\tbs_browser\\.exe",
         ".*Launcher\\\\nikke_launcher\\.exe"
-      ],
-      "package_name": [
-        "com.proximabeta.nikke"
       ]
     }
   ]

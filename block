@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_path_regex": [
+        ".*Program Files\\\\Adobe\\\\.*"
+      ]
+    }
+  ]
+}
